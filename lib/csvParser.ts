@@ -1,7 +1,6 @@
 // CSV parsing and validation
 import Papa from 'papaparse';
 import { Contact } from '@/types';
-import { v4 as uuidv4 } from 'crypto';
 
 // Generate simple UUID alternative for browser
 const generateId = (): string => {
