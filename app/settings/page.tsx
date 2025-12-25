@@ -141,7 +141,7 @@ export default function Settings() {
                 <Alert variant="info">
                   <Info className="h-4 w-4" />
                   <AlertDescription>
-                    All data is stored locally in your browser's localStorage.
+                    All data is stored locally in your browser&apos;s localStorage.
                     Clear browser data will remove all contacts.
                   </AlertDescription>
                 </Alert>
