@@ -1,0 +1,7 @@
+email,phone,name,company,industry,location,keywords
+john.doe@acme.com,555-1234,John Doe,Acme Corp,Technology,San Francisco CA,"buy,demo,pricing"
+jane.smith@techco.com,555-5678,Jane Smith,TechCo,Software,New York NY,"compare,review,features"
+bob.wilson@startup.io,555-9012,Bob Wilson,Startup Inc,SaaS,Austin TX,"trial,quote,solution"
+alice.brown@enterprise.com,555-3456,Alice Brown,Enterprise Ltd,Finance,Chicago IL,"implement,consultation"
+charlie.davis@company.net,555-7890,Charlie Davis,Company LLC,Marketing,Los Angeles CA,"learn,guide"
+
